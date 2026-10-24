@@ -1,8 +1,6 @@
 # number-guessing-game
 A simple interactive game built with HTML, CSS and JavaScript
-# Number Guessing Game
-
-## About the Project
+About the Project
 
 A simple number guessing game built with HTML, CSS, and JavaScript. The player tries to guess a random number between 1 and 100.
 
@@ -17,5 +15,3 @@ HTML, CSS, JavaScript
 What I Learned
 
 I learned how to create and style web pages, use JavaScript functions and conditions, handle user input and button clicks, manipulate the DOM, fix coding errors, and publish projects on GitHub.
-
-Live Demo
