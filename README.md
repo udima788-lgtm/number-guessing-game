@@ -15,3 +15,5 @@ HTML, CSS, JavaScript
 What I Learned
 
 I learned how to create and style web pages, use JavaScript functions and conditions, handle user input and button clicks, manipulate the DOM, fix coding errors, and publish projects on GitHub.
+
+https://udima788-lgtm.github.io/number-guessing-game/
